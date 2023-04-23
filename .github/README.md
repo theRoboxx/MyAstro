@@ -1,5 +1,9 @@
 # AstroNvim User Configuration Example
 
+Inspired by :point_down:
+
+[![Custom AstroVim Configuration](https://img.youtube.com/vi/GEHPiZ10gOk/0.jpg)](https://piped.privacydev.net/watch?v=GEHPiZ10gOk)
+
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ## 🛠️ Installation
