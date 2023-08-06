@@ -6,7 +6,13 @@ Inspired by :point_down:
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
-## 🛠️ Installation
+#### Install this Config for Yourself
+
+```shell
+git clone https://github.com/theRoboxx/myAstro ~/.config/nvim/lua/user
+```
+
+## 🛠️ Installation of AstroNvim
 
 #### Make a backup of your current nvim and shared folder
 
@@ -27,11 +33,6 @@ Press the "Use this template" button above to create a new repository to store y
 
 You can also just clone this repository directly if you do not want to track your user configuration in GitHub.
 
-#### Clone the repository
-
-```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
-```
 
 #### Start Neovim
 
